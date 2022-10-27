@@ -24,16 +24,19 @@ Curso DBT Prof.Fernando Amaral
  
 - Criar tabela desnormalizada para grupo de BIs users:
 
-    1. Left-Join 
-      Product- Supplier
-      Products – Categories      
-    2. Left-Join OrderDetais – Modelo 1
-    3. Left-Join 
-      Orders – Customers
-      Orders – Employees
-      Orders – Shippers
-    4. Inner-Join 
-      Modelo 2 – Modelo 3
+    - Left-Join 
+        Product- Supplier
+        Products – Categories
+      
+    - Left-Join OrderDetais – Modelo 1
+    
+    - Left-Join 
+        Orders – Customers
+        Orders – Employees
+        Orders – Shippers
+        
+    - Inner-Join 
+        Modelo 2 – Modelo 3
 
 7. Particionar tabela de orders por ano (2020, 2021, 2022)
 
