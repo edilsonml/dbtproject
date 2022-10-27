@@ -1,7 +1,6 @@
-Projeto Database Northwind
+### Projeto DBT com Database Northwind
 
 Curso DBT Prof.Fernando Amaral
-
 https://www.udemy.com/share/107mz43@klbLGPfHFKhy6vx-7y0NgxotzTACdnrLmpICoBqDAJecssCHAYUi7h1dm3x43Dsi/
 
 ### Etapas do projeto:
